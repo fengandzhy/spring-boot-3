@@ -6,7 +6,7 @@
 
 ## 图片示例
 
-![](${currentFileNameWithoutExt}_../2024-07-21-12-25-17.png)
+![alt text](image-1.png)
 
 ## 代码块示例
 
